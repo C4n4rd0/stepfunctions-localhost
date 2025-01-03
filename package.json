@@ -6,7 +6,6 @@
   "scripts": {
     "test": "xo"
   },
-  "author": "Max Isom <codetheweb@icloud.com> (https://maxisom.me)",
   "license": "MIT",
   "xo": {
     "space": true
@@ -34,11 +33,11 @@
     "offline"
   ],
   "bugs": {
-    "url": "https://github.com/codetheweb/stepfunctions-localhost/issues"
+    "url": "https://github.com/C4n4rd0/stepfunctions-localhost/issues"
   },
-  "homepage": "https://github.com/codetheweb/stepfunctions-localhost#readme",
+  "homepage": "https://github.com/C4n4rd0/stepfunctions-localhost#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codetheweb/stepfunctions-localhost.git"
+    "url": "git+https://github.com/C4n4rd0/stepfunctions-localhost.git"
   }
 }
